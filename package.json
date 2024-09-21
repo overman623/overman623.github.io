@@ -2,7 +2,7 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://overman623.github.io/overman623.github.io",
+  "homepage": "https://overman623.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
