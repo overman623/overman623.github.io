@@ -55,10 +55,7 @@ const Placeholders = () => {
                     aria-label="Placeholder"
                     preserveAspectRatio="xMidYMid slice"
                     focusable="false"
-                  >
-                    <title>Placeholder</title>
-                    <rect width="100%" height="100%" fill="#868e96"></rect>
-                  </CCardImage>
+                  />
                   <CCardBody>
                     <CPlaceholder component={CCardTitle} animation="glow" xs={7}>
                       <CPlaceholder xs={6} />
