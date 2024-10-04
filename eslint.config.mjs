@@ -15,6 +15,7 @@ export default [
       plugins: [pluginReactHooks], // react-hooks 플러그인 추가
     },
     rules: {
+      "react-hooks/rules-of-hooks": "error",  // Checks rules of Hooks
       "react-hooks/exhaustive-deps": "warn", // 또는 'error'로 변경
     },
   },
